@@ -5,7 +5,7 @@ This is a patched EAC Bypass made for Rec Room by Rockpikmim888, used JAN - JUN 
 Make sure windows defender is off before extracting. Load on a usb to prevent BSOD.
 
 *Disclaimer: You must be on either Windows version and OS Build in order to use this bypass. It will not work if you are not in either version and OS Build.
-Windows 10: Version 20H2 OS Build 19042.508 (make and download here: https://tb.rg-adguard.net/public.php). If you are not on either verison, a quick Google search will help you find their ISOs or you can vist https://tb.rg-adguard.net/public.php and make your own.*
+Windows 10: Version 20H2 OS Build 19042.508 (make and download here: https://tb.rg-adguard.net/public.php). If you are not on either verison, a quick Google search will help you find their ISOs or you can vist https://tb.rg-adguard.net/public.php and make your own. If you're having issues turn off real time protection in windows defender and turn off your anti virus.*
 
 - 1 ) Open loadDriver.exe
 - 2 ) Open notepad++.exe, this is the undetected Cheat Engine
