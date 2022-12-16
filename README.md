@@ -1,5 +1,5 @@
-> # **Rockpimin88's .508 EAC Bypass for Rec Room**
-This is a patched EAC Bypass made for Rec Room by Rockpikmim888, used JAN - JUN 2022. I'm making this to archive the bypass before it gets lost.
+> # **PastDSE EAC Bypass for Rec Room**
+This is a patched EAC Bypass made for Rec Room by Rockpikmim888, used JAN - JUN 2022. I'm making this to archive the bypass before it gets lost. Credit to https://github.com/utoni/PastDSE for the DSE bypass.
 
 > **Instructions:**
 Make sure windows defender is off before extracting. Load on a usb to prevent BSOD.
