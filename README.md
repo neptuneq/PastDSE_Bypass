@@ -1,5 +1,5 @@
 > # **PastDSE EAC Bypass for Rec Room**
-This is a patched EAC Bypass made for Rec Room by Rockpikmim888, used JAN - JUN 2022. I'm making this to archive the bypass before it gets lost. Credit to https://github.com/utoni/PastDSE for the DSE bypass.
+This is a patched EAC Bypass made for Rec Room by Rockpikmim888, used JAN - JUN 2022. I'm making this to archive the bypass before it gets lost. Credit to https://github.com/utoni/PastDSE for the DSE bypass. Join my [discord](https://discord.gg/yKSNNszpPq)!
 
 ![](https://img.shields.io/github/downloads/neptuneq/PastDSE_Bypass/total)
 
